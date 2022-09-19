@@ -103,7 +103,6 @@ function buildCharts(sample) {
     //};
     //console.log(barLayout)
 
-
     var barLayout = {
       title: {
       text: "<b>Top 10 Bacteria Cultures Found</b>",
