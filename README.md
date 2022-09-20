@@ -17,9 +17,9 @@ The purpose of this project is to create a dashboard that displays data on top 1
 
 
 ## Results
-The Dashboard allows user to use the drop down menu of Test Subject ID and it will display the charts. 
+The Dashboard allows user to use the drop down menu to see results on each Subject ID and it will display the charts. 
 
-To visit the Dashboard click [HERE](https://rpamintuan671.github.io/Belly-Button-BioDiversity/)
+To visit the Dashboard click [HERE](https://rpamintuan671.github.io/Belly-Button-BioDiversity/) or click on the image below. 
 
 
 [<img src="photos/Dashboard_Belly%20Button%20Biodiversity.png">](https://rpamintuan671.github.io/Belly-Button-BioDiversity/)
